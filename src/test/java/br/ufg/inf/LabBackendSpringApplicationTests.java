@@ -1,4 +1,4 @@
-package br.ufg.inf.backend;
+package br.ufg.inf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
